@@ -1,0 +1,39 @@
+## How to Run
+
+1. **Save everything in the new folder**
+2. **Install requirements:** `pip install pandas numpy scikit-learn matplotlib seaborn`
+3. **Run:** `python customer_analyzer.py`
+
+## What This Project Demonstrates
+
+**Technical Skills:**
+- Data generation and preprocessing
+- Feature engineering
+- Unsupervised learning (K-means clustering)
+- Supervised learning (classification)
+- Model comparison and evaluation
+- Data visualization with matplotlib/seaborn
+
+**Business Skills:**
+- Customer segmentation analysis
+- Purchase prediction modeling
+- ROI calculation and business recommendations
+- Data storytelling through visualizations
+
+## Why This Is Better
+
+**Compared to your stock predictor:**
+- Single focused file (easier to review)
+- No external dependencies or datasets
+- Shows multiple ML techniques
+- Demonstrates business understanding
+- More relevant to real jobs
+- Professional presentation
+
+**Portfolio advantages:**
+- Complete end-to-end project
+- Shows both technical and business skills
+- Generates actual outputs employers can see
+- Demonstrates problem-solving approach
+
+This project shows you understand ML fundamentals while solving real business problems. Run it, document any modifications you make, and use this as your primary portfolio piece.
